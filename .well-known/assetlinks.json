@@ -1,1 +1,10 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.lupillodevtest.bibliaparati",
+    "sha256_cert_fingerprints": [
+      "F3:91:E5:16:62:77:C2:81:83:6E:55:59:72:9B:6C:A4:3B:D5:E2:0B:66:50:A0:2E:09:D9:62:D4:92:20:37:FF"
+    ]
+  }
+}]
