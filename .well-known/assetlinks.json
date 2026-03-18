@@ -13,7 +13,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.tu.paquete.biblia",
+      "package_name": "com.lupillodevtest.bibliaparati",
       "sha256_cert_fingerprints": ["03:90:28:8D:E4:BD:03:AA:D8:8A:67:FF:7B:F7:A3:12:0F:42:DC:86:D6:9E:67:D6:8F:81:80:69:51:1F:0D:74"]
     }
   }
