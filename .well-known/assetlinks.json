@@ -1,10 +1,20 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.lupillodevtest.bibliaparati",
-    "sha256_cert_fingerprints": [
-      "F3:91:E5:16:62:77:C2:81:83:6E:55:59:72:9B:6C:A4:3B:D5:E2:0B:66:50:A0:2E:09:D9:62:D4:92:20:37:FF"
-    ]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lupillodevtest.bibliaparati",
+      "sha256_cert_fingerprints": [
+        "F3:91:E5:16:62:77:C2:81:83:6E:55:59:72:9B:6C:A4:3B:D5:E2:0B:66:50:A0:2E:09:D9:62:D4:92:20:37:FF"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tu.paquete.biblia",
+      "sha256_cert_fingerprints": ["03:90:28:8D:E4:BD:03:AA:D8:8A:67:FF:7B:F7:A3:12:0F:42:DC:86:D6:9E:67:D6:8F:81:80:69:51:1F:0D:74"]
+    }
   }
-}]
+]
